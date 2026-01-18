@@ -1,0 +1,2 @@
+18/01/2026,B 5784 FZA,servis rutin,600000.0,Abel
+18/01/2026,H 6789 TUY,Tune Up,300000.0,Abel
